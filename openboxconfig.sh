@@ -9,3 +9,4 @@ cp rc.xml ~/.config/openbox/rc.xml
 cp menu.xml ~/.config/openbox/menu.xml
 cp autostart ~/.config/openbox/autostart
 cp .conkyrc ../.conkyrc
+cp tint2rc ~/.config/tint2/tint2rc
