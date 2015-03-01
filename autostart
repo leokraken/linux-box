@@ -1,0 +1,8 @@
+## Background
+nitrogen --restore &
+## Keyboard touchpad settings
+setxkbmap -rules evdev -model evdev -layout us -variant altgr-intl &
+synclient TapButton1=0 &
+sleep 1 &
+tint2 &
+conky &
